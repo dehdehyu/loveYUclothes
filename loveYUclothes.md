@@ -2,24 +2,11 @@
 
 format: ![image from mmn ](https://media.mnn.com/assets/images/2018/09/DumpedClothesShutterstock.jpg.838x0_q80.jpg)
 
-##what is loveYUclothes?
-
-
-```markdown
-Syntax highlighted code block
+##  what is loveYUclothes?
+loveYUclothes is a site where we come together to help people who need clothes. Around 50% of an a persons wordrobe isn't used and is thrown away, some drown out for minor inperfections which could easily be fixed. Our comunity is here to gather up donated clothes and fix any issues with them then gift them to people in need. We make sure that every clothinging gifted to us will be to people in need. 
 
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
