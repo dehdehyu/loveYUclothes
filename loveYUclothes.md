@@ -1,12 +1,9 @@
 ## loveYUclothes
 
-format: ![Alt Text](url)
+format: ![image from mmn ](https://media.mnn.com/assets/images/2018/09/DumpedClothesShutterstock.jpg.838x0_q80.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##what is loveYUclothes?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
